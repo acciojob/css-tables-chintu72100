@@ -4,9 +4,9 @@ td,th{
     border-radius: 5px;
     padding: 0.5rem;
 }
-tr:nth-of-type(odd){
-    background-color: #f2f2f2;
+tbody tr:nth-of-type(odd){
+    background-color: #ffffff;;
 }
-tr:nth-of-type(even){
-    background-color: #ffffff;
+tbody tr:nth-of-type(even){
+    background-color: #f2f2f2;
 }
